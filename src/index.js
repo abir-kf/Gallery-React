@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//app strictmode = so we should use the good syntaxe
 ReactDOM.render(
   <React.StrictMode>
     <App />
